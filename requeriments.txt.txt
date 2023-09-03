@@ -1,0 +1,3 @@
+Libreria Flask
+
+Para instalar esta libreria basta con ejecutar "pip install Flask"
